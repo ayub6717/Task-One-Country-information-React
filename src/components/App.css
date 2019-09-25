@@ -1,0 +1,33 @@
+
+.country {
+  background-color: white;
+  font-size: 16px;
+  color: black;
+}
+
+.country p {
+  background-color: #f2f4fe;
+  padding: 10px;
+}
+
+.country h6 {
+  background-color: cadetblue;
+  color: white;
+  padding: 10px;
+}
+
+.country h3{
+  background-color: #22c58f;
+  color: white;
+  padding: 20px;
+  text-align: center
+}
+
+h2{
+  text-align: center;
+  padding: 20px;
+}
+span{
+  color: #22c58f;
+}
+
